@@ -1,14 +1,9 @@
-# 🚀 Hypers on Mars 🚀
-
-## 🎮 Overview
+# 🎮 Hypers on Mars 🚀
 
 Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the boss to claim your victory!
 ---
 
 ## 💾 Download and Run the Game
-
-
-## ⚙️ Requirements To Run from Source:
 1. Install **Python 3.9.6** (or a compatible version) on your system.
 2. Install the required libraries by running:
    ```bash
@@ -16,7 +11,6 @@ Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the b
 3. After installing the dependencies, run the following command to start the game:
    ```bash
    python videogame.py
-
 
 ## 📦 Repository Contents
  - videogame.py: The main game source code.
