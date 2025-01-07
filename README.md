@@ -4,13 +4,16 @@ Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the b
 ---
 
 ## 💾 Download and Run the Game
-1. Install **Python 3.9.6** (or a compatible version) on your system.
-2. Install the required libraries by running:
+1. Install **Python 3.9.6** (or a compatible version) on your system (if you don't already have it)
+2. Clone the Repository
+3. Install the required libraries by running:
    ```bash
    pip install -r requirements.txt
-3. After installing the dependencies, run the following command to start the game:
+4. After installing the dependencies, run the following command to start the game:
    ```bash
    python videogame.py
+
+Note: The game may take a minute to load due to asset initialization.
 
 ## 📦 Repository Contents
  - videogame.py: The main game source code.
