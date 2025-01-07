@@ -9,7 +9,7 @@ Imagine owning in-game assets as Hypers NFTs or earning HYPERS token rewards for
 
 ## 🎥 Watch the Game in Action  
 Want to see what the game looks like before playing? Check out this gameplay example on YouTube:  
-👉 [Hypers on Mars Gameplay Demo](https://www.youtube.com/example-link)
+👉 [Hypers on Mars Gameplay Demo](https://youtu.be/mljGKoWtZz8)
 
 ## 💾 Download and Run the Game
 1. Install **Python 3.9.6** (or a compatible version) on your system (if you don't already have it)
