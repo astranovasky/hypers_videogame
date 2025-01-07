@@ -1,4 +1,4 @@
-# Hypers on Mars
+# 🚀 Hypers on Mars 🚀
 
 ## 🎮 Overview
 
