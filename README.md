@@ -14,6 +14,9 @@ Want to see what the game looks like before playing? Check out this gameplay exa
 ## 💾 Download and Run the Game
 1. Install **Python 3.9.6** (or a compatible version) on your system (if you don't already have it)
 2. Clone the Repository
+   ```bash
+   git clone [REPOSITORY]
+   cd hypers-on-mars
 3. Install the required libraries by running:
    ```bash
    pip install -r requirements.txt
