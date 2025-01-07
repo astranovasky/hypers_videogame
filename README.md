@@ -1,6 +1,9 @@
 # 🎮 Hypers on Mars 🚀
 
-Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the boss to claim your victory!
+Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! 
+
+## 🌌 NFT Integration Potential 🌌
+Imagine owning in-game assets as Hypers NFTs or earning HYPERS token rewards for your achievements.
 ---
 
 ## 🎥 Watch the Game in Action  
@@ -20,10 +23,10 @@ Want to see what the game looks like before playing? Check out this gameplay exa
 Note: The game may take a minute to load due to asset initialization.
 
 ## 📦 Repository Contents
- - videogame.py: The main game source code.
+ - videogame.py: The videogame code.
  - sounds/: Directory containing sound effects and background music.
- - backgrounds/: Background images and assets.
- - characters/: Character sprites and animations.
+ - backgrounds/: Background images.
+ - characters/: Hyper Character.
 
 ## 🚀 How to Play
 
@@ -45,6 +48,6 @@ Developer: AstraNova <br>
 Art & Design: DeSituationist
 
 Music & Sounds: Freesound Community 
-- Boss Fight.wav by Deathbygeko -- https://freesound.org/s/190843/ -- License: Attribution 4.0
-- Here Comes The Boss! by Beetlemuse -- https://freesound.org/s/559536/ -- License: Attribution 4.0
+- [Boss Fight.wav by Deathbygeko](https://freesound.org/s/190843/) -- License: Attribution 4.0
+- [Here Comes The Boss! by Beetlemuse](https://freesound.org/s/559536/) -- License: Attribution 4.0
 
