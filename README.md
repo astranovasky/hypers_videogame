@@ -9,10 +9,14 @@ Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the b
 
 
 ## ⚙️ Requirements To Run from Source:
-1. Install **Python 3.8+** on your system.
+1. Install **Python 3.9.6** (or a compatible version) on your system.
 2. Install the required libraries by running:
    ```bash
    pip install -r requirements.txt
+3. After installing the dependencies, run the following command to start the game:
+   ```bash
+   python videogame.py
+
 
 ## 📦 Repository Contents
  - videogame.py: The main game source code.
@@ -38,5 +42,8 @@ Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the b
 ### 🖤 Credits:
 Developer: AstraNova
 Art & Design: DeSituationist
-Music & Sounds: Freesound Community
-Framework: Pygame
+
+Music & Sounds: Freesound Community 
+- Boss Fight.wav by Deathbygeko -- https://freesound.org/s/190843/ -- License: Attribution 4.0
+- Here Comes The Boss! by Beetlemuse -- https://freesound.org/s/559536/ -- License: Attribution 4.0
+
