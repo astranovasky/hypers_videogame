@@ -2,7 +2,7 @@
 
 Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! 
 
-🌌 NFT Integration potential 
+🌌 **NFT Integration potential**: 
 Imagine owning in-game assets as Hypers NFTS or earning HYPERS token rewards for your achievements. 
 
 ---
