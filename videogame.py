@@ -4,9 +4,7 @@ import random
 import json
 import math
 from PIL import Image
-import numpy as np
 import os
-import sys
 import time
 
 print("Initializing game, please wait...")
