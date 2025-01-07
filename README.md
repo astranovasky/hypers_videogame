@@ -30,7 +30,7 @@ Note: The game may take a minute to load due to asset initialization.
  - videogame.py: The videogame code.
  - sounds/: Directory containing sound effects and background music.
  - backgrounds/: Background images.
- - characters/: Hyper Character.
+ - characters/: Hyper Characters.
 
 ## 🚀 How to Play
 
