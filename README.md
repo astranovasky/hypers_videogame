@@ -3,6 +3,10 @@
 Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the boss to claim your victory!
 ---
 
+## 🎥 Watch the Game in Action  
+Want to see what the game looks like before playing? Check out this gameplay example on YouTube:  
+👉 [Hypers on Mars Gameplay Demo](https://www.youtube.com/example-link)
+
 ## 💾 Download and Run the Game
 1. Install **Python 3.9.6** (or a compatible version) on your system (if you don't already have it)
 2. Clone the Repository
@@ -37,7 +41,7 @@ Note: The game may take a minute to load due to asset initialization.
 
 ---
 ### 🖤 Credits:
-Developer: AstraNova
+Developer: AstraNova <br>
 Art & Design: DeSituationist
 
 Music & Sounds: Freesound Community 
