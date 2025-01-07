@@ -1,6 +1,7 @@
 # Hypers on Mars
 
 ## 🎮 Overview
+
 Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the boss to claim your victory!
 ---
 
@@ -13,12 +14,11 @@ Welcome to **Hypers on Mars**, a retro-themed, pixel-art videogame! Defeat the b
    ```bash
    pip install -r requirements.txt
 
-📦 Repository Contents
-videogame.py: The main game source code.
-sounds/: Directory containing sound effects and background music.
-backgrounds/: Background images and assets.
-characters/: Character sprites and animations.
-dist/: Contains the executable file.
+## 📦 Repository Contents
+ - videogame.py: The main game source code.
+ - sounds/: Directory containing sound effects and background music.
+ - backgrounds/: Background images and assets.
+ - characters/: Character sprites and animations.
 
 ## 🚀 How to Play
 
